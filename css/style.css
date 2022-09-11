@@ -1,0 +1,60 @@
+
+h1 {
+	text-align: center;
+	color:brown;
+}
+
+div.text {
+	color: rgb(129, 182, 30); 
+}
+
+.massage,
+.selection{
+	color: rgb(255, 0, 0);
+}
+
+.container{
+	color: rgb(34, 102, 102);
+}
+
+a {
+color: teal;
+}
+
+.link a {
+	color: green; 
+}
+
+#top{
+	color:blueviolet;
+}
+#top1{
+	color: blue;
+}
+#top2{
+	color: darkblue;
+}
+
+.text > p {
+	color: red; 
+}
+
+.page1 ~ p{
+	color: green; 
+}
+
+.text1.page{
+	color: rgba(102, 102, 5, 0.671);
+}
+
+.text .text2 {
+color: rgb(12, 190, 190);
+}
+
+.text3 + p {
+	color: rgb(160, 44, 206);
+}
+
+.text4 * {
+color: grey;
+}
